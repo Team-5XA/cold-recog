@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Aak54321/cr-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Ren-Gen22/cr-backend.git
+[submodule "app"]
+	path = app
+	url = https://github.com/Aswin8846/cr-app.git
