@@ -8,8 +8,8 @@
 
 ###  What is Cold-Recog ❓
 
-**Cold-Recog** (abbr. COLD – Corpse Or Lost Deceased (Deceased Person Identification)
-RECOG – Recognition)
+**Cold-Recog** (COLD: Corpse Or Lost Deceased, RECOG: Recognition) – An system for the identification of deceased or missing persons)
+
 
 
 ## [Check out our demo video ✌🏽](https://youtu.be/9FdiVLZ_B7U)
@@ -83,6 +83,18 @@ Cold Recog is designed to assist in identifying unidentified bodies by comparing
 
     The system provides `results` through both the `web app and mobile app`, displaying matching or potential matches from the database.
 
+
+# Usage
+
+To view the full usage of the project, please click the link below.  
+It will lead to the `HOWTOUSE.md` file.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="/HOWTOUSE.md"><img src="https://media-hosting.imagekit.io//9f182a17d5464129/cr.png?Expires=1834924181&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=mFwVsRkz7AkJKrHJC8GQbSCLqmUObcY~DxCSSc07BgTUw1ow2fg2EqP4ksYir6OXGe9SH6tXfFYKgE5C7Ka9mSSf4y2Go2-UuehdXFdRGbnIOq0UFM2d7tIlyfFS~k9XM8nyJnsf7aVa--E2F-uRKA-3HQf1rX73kiiLIKYM1RW0DoTCDp2gkWrdwcbXCv1rAcjpzVf0hdWe5e1-Xhh0R20SNnvzYqL7ZR831J8tiWCj2gAm~-YdoPDmwdc80dFLgI~JYbPyZdIZ8hrL4o7hHhtrcLIINZaLIcEV4zp4rt9kPKBsTs1-w-bHZ7dZD9bX6WcwwPgO08GW~Bl1JXQbyA__"></a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 # Research 
 <div align=center>
  <img src="https://media-hosting.imagekit.io//97787fca7ac24cda/5XA.png?Expires=1834548660&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=u5AothZchaTsjbTJfePDefGjRPX1feaKTBZ96ePdkLb2Lbc3TG27IViOwFT0tQtx29xIZNUZJSe88Y~KjSdWkPHRq3fABY4arZRarHNJaELUh3jhQYo2QXu3I3zv8gG5PfeF5Qp-GGbX8PqgWKqcUr8SGjIdkPymWaIhlo0M-bOtyHGyeuHlYNO6CUx8hzmXDFvdiNzLyUbpdrsfkodexFbrb6RLzmkcMxJqXtUJljuB8uVQ1VPcb8htSw~~cwg3N7D3EPpAjd9KiYlPdXdLthKWqsp0XL5QUnRO2D7xr1jPdFMQPOEXO8JbuhXA1DPzpLwDKDU8UqeDavmkcWc0WQ__" width="137" alt="Logo" />
@@ -118,10 +130,9 @@ To explore the legal and practical aspects of implementing our solution, we visi
 #### Team Members : 
 
 - **B A Aksshay**: [GitHub Profile](https://github.com/aksshay88)
-- **Abishek Renjan U B**: [GitHub Profile](https://github.com/Ren-Gen22)
+- **Abhishek Renjan U B**: [GitHub Profile](https://github.com/Ren-Gen22)
 - **Aakash S**: [GitHub Profile](https://github.com/Aak54321)
 - **B A Aswin**: [GitHub Profile](https://github.com/aswin8846)
-- **Akash A**: [GitHub Profile](https://github.com/AkashA335)
 
 # Contribution
 
@@ -135,4 +146,4 @@ Together, we can create a more robust and effective solution for the society .
 
 # License
 
-This project is licensed under the MIT License. You are free to use, modify, and distribute this software under the terms of the [MIT LICENSE](https://github.com/Hackathon-5XA/Main-stuff-sample/blob/main/LICENSE)
+This project is licensed under the MIT License. You are free to use, modify, and distribute this software under the terms of the [MIT LICENSE](https://github.com/Team-5XA/cold-recog/blob/main/LICENSE)
